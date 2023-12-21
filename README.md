@@ -1,11 +1,11 @@
 # gLTF Tools + Calva Problem Reproduction Project
 
-Something with the gLTF Tools and the Calva extensions for VS Code do not chime. This is a minimal Clojure project exposing the problem.
+Something with the [gLTF Tools](https://marketplace.visualstudio.com/items?itemName=cesium.gltf-vscode) and the [Calva](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva) extensions for VS Code do not chime. This is a minimal Clojure project exposing the problem.
 
 ## Prerequisites
 
 * Java
-* the Clojure CLI
+* the [Clojure CLI](https://clojure.org/guides/install_clojure)
 * VS Code
   * gLTF Tools Extension
   * Calva Extension
